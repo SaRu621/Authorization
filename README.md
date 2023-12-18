@@ -10,4 +10,4 @@
 
 - [Redis](https://redis.io/) - кеширование 
 
-- [docker](https://www.docker.com/) - технология виртуализации
+- [Docker](https://www.docker.com/) - технология виртуализации
